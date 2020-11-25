@@ -3,4 +3,4 @@ project(Homework6)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Homework6 huffcode.cpp huffcode_test.cpp)
+add_executable(Homework6 huffcode.cpp huffcode_test.cpp Node.cpp Node.h)
